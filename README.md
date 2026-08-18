@@ -86,6 +86,8 @@ The data supports analysis across the complete order journey, from **order place
 
 ## 📈 Power BI Dashboards
 
+![View Interactive Power BI Report]([YOUR_POWER_BI_LINK](https://app.fabric.microsoft.com/view?r=eyJrIjoiNWRhY2ZiZDEtNjM0My00OGMwLWFkNGItN2MwOGU2OWQxZmM1IiwidCI6ImNiMTZlMzM3LTEwNzktNDg2NC1iMzMwLWZiN2EyOTA4YzJhOCJ9&pageName=8415b0b8152284119824))
+
 Four stakeholder-focused dashboards were created to communicate the analysis and support operational decision-making.
 
 ### 1. Operations Manager
